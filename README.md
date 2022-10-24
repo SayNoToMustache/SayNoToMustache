@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header]()(https://www.codewars.com/users/SayNoToMustache/badges/large)]
+[![Header](https://www.codewars.com/users/SayNoToMustache/badges/large)]
 
 
 <!--
