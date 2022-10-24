@@ -1,5 +1,5 @@
 ### Python :
-###########[![Header](https://www.codewars.com/users/SayNoToMustache/badges/large)](https://www.codewars.com/users/SayNoToMustache)
+[![Header](https://www.codewars.com/users/SayNoToMustache/badges/large)](https://www.codewars.com/users/SayNoToMustache)
 
 
 <!--
